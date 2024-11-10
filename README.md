@@ -12,7 +12,7 @@ run:
 
 qjs hello.js
 
-js2c
+js2c:
 
 
 qjsc hello.js -e -o hello.c
